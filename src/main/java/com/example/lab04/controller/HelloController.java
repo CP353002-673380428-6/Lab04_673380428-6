@@ -75,10 +75,9 @@ public class HelloController {
         return "Server is running OK";
     }
 
+
     @GetMapping("/ping")
     public String ping() {
         return "pong";
     }
 }
-
-

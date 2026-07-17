@@ -74,4 +74,11 @@ public class HelloController {
     public String status() {
         return "Server is running OK";
     }
+
+    @GetMapping("/ping")
+    public String ping() {
+        return "pong";
+    }
 }
+
+

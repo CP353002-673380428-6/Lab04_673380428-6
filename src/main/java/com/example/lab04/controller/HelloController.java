@@ -8,9 +8,9 @@ import org.springframework.web.bind.annotation.RestController;
  * HelloController — REST Controller ตัวอย่างสำหรับ Lab04
  *
  * TODO: แก้ไขข้อมูลส่วนตัวด้านล่างให้เป็นของคุณ
- *   - NAME    : ชื่อ-สกุล ของนักศึกษา
- *   - ID      : รหัสนักศึกษา
- *   - SECTION : หมายเลขกลุ่ม (Section)
+ *   - NAME    : นายสิทธิโชค มุขนาค
+ *   - ID      : 673380428-6
+ *   - SECTION : 4
  */
 
 // ── Annotations ──────────────────────────────────────────────────────────────
